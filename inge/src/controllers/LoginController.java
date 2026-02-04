@@ -1,6 +1,6 @@
-package controller;
+package controllers;
 
-import model.Usuario;
+import models.*;
 
 public class LoginController {
 

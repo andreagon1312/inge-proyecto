@@ -1,6 +1,6 @@
-package controller;
+package controllers;
 
-import model.*;
+import models.*;
 import java.util.ArrayList;
 
 public class RegistroController {
